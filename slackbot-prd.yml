@@ -1,0 +1,3 @@
+test:
+  kind: Pod
+  image: nginx-alpine
